@@ -2,6 +2,7 @@
  Source FROM tomcat:8.5.49-jdk8-openjdk<br/>
  add tomcat-users.xml and manager context.xml to access manager/html<br/>
  <br/>
+ * [more infomation](https://blog.yslifes.com/archives/2839)
  # Environment
  openjdk 1.8<br/>
  tomcat 8.5
